@@ -47,7 +47,7 @@
 		// Class assigned to page currently in view, and during transitions
 		activePageClass: "ui-page-active",
 
-		// Deprecated in 1.4 remove in 1.5
+		// Deprecated in 1...4 remove in 1.5
 		// Class used for "active" button state, from CSS framework
 		activeBtnClass: "ui-btn-active",
 
